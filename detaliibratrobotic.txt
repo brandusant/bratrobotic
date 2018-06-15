@@ -1,0 +1,7 @@
+Componente necesare:
+-placa de dezvoltare  Arduino Uno
+-4 servomotoare
+-1 modul Bluetooth
+-fire de legatura
+-piese realizate cu ajutorul imprimantei 3D
+-sursa de alimentare de 9V
